@@ -1,5 +1,6 @@
 # Sentece to Sentence Similarity
 ## NLP project for text analysis and calssification
+* this make to classifire the 2 sentance are similer and dupplicated or not 
 ### test preprossing
 * lower the words 
 * remove stowords 
